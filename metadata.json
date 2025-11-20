@@ -1,0 +1,5 @@
+{
+  "name": "VocabMaster SRS",
+  "description": "A vocabulary learning app featuring spaced repetition, multiple choice, and typing modes.",
+  "requestFramePermissions": []
+}
